@@ -1,0 +1,25 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
+
+  (paper "A4")
+
+  (title_block
+    (title "Title of the project")
+    (date "2023-05-12")
+    (rev "rev01")
+    (company "Frank Wilbert Sichone Electronics")
+    (comment 1 "+255757606301")
+    (comment 2 "frankwilbert16@hotmail.com")
+    (comment 3 "frankwilbert16@gmail.com")
+    (comment 4 "Frank Wilbert Sichone")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
